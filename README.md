@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hector Crespo</h1>
-<h3 align="center">A passionate full stack software engineer.</h3>
+<h3 align="center">An aspiring software engineer driven by curiosity for coding and problem solving with a passion for anime, gaming and NBA basketball.
+
+I have experience in teaching various programming topics that includes JavaScript, Python, OOP, SQL, HTML, and CSS as a Module Instructor. I've managed to oversee the successful completion of 150+ student full-stack capstone projects. Through collaborative efforts across departments, I've refined curriculum modules with additional resources in system design, debugging tools, and project management best practices, ensuring a robust learning environment.
+
+In my latest project, I worked on a Discord clone focusing on enhancing the user interface (UI), the user experience (UX), and optimizing the backend API’s using Flask and React JS. I am proud of optimizing the Chat feature to improve the WebSockets functionality on the backend using Socket-IO and in React using Socket.io-client. I honed my debugging skills and implemented innovative solutions to deliver high-quality code and seamless user functionality.
+
+I am eager to further develop my expertise in software engineering, leveraging my creativity and collaborative spirit to drive innovative solutions for companies. Proficient in JavaScript, Python, HTML, CSS, and SQL, I utilize frameworks such as React JS, Redux, Node JS, Express JS, Sequelize JS, Flask, SQLAlchemy, PostgreSQL, and SQLite.
+
+I enjoy connecting with people to exchange perspectives on programming, new technologies, anime, gaming, or basketball. Looking forward to connecting and exploring new ideas together!
+
+My top 3 favorite anime:
+- Jujutsu Kaisen
+- Naruto
+- Attack on Titan
+
+Email: crespomhector@gmail.com</h3>
 
 - 👨‍💻 All of my projects are available at [https://crespohector.github.io/](https://crespohector.github.io/)
 
