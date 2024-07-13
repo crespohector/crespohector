@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hector Crespo</h1>
-<h5 align="left">🚀An aspiring software engineer driven by curiosity for coding and problem solving with a passion for anime, gaming and NBA basketball.
+<p align="left">🚀An aspiring software engineer driven by curiosity for coding and problem solving with a passion for anime, gaming and NBA basketball.
 
 I have experience in teaching various programming topics that includes JavaScript, Python, OOP, SQL, HTML, and CSS as a Module Instructor.
 
@@ -15,7 +15,7 @@ My top 3 favorite anime:
 - Attack on Titan
 
 Email: crespomhector@gmail.com
-</h5>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://crespohector.github.io/](https://crespohector.github.io/)
 
