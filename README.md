@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hector Crespo!👋</h1>
 <p align="left">I'm an aspiring software engineer with a passion for coding, problem-solving, and exploring new technologies. Apart from programming, I enjoy anime, gaming, and following NBA basketball.
 
-- 🔭 I recently worked on a clone of Discord [Accord](https://github.com/crespohector/accord-clone)
+<!-- - 🔭 I recently worked on a clone of Discord [Accord](https://github.com/crespohector/accord-clone) -->
 - 🌱 I’m currently learning how to utilize LLM API's. 
 - 💬 Ask me about: programming, anime, gaming, NBA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hector-crespo/)
