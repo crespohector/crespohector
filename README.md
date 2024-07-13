@@ -16,7 +16,7 @@
 ## 🌟 Featured Projects
 
 ### Accord
-- Description: A clone of Discord where users can join and leave server to chat with users.
+- Description: A clone of Discord where users can join and leave servers to chat with users.
 - Technologies Used: React JS, Redux JS, Flask, Python, PostgreSQL
 - GitHub Repository: [Accord](https://github.com/crespohector/accord-clone)
 
